@@ -1,0 +1,12 @@
+{
+    "recognizers":[
+        {
+            "idLPR":1,
+            "idCam":2
+        },
+        {
+            "idLPR":2,
+            "idCam":3
+        }
+    ]
+}

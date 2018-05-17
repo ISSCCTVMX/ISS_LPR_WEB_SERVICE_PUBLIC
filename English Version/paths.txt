@@ -1,0 +1,7 @@
+/set-view
+/new-plate
+/erase-plate
+/get-plate
+/get-whitelist
+/get-blacklist
+/insert-comments
