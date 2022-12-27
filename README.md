@@ -1,3 +1,5 @@
+# DEPRECATED. Use LPR API in SecurOS 11
+
 # **ISS LPR WEB SERVICE V3.3**
 
 # Aglahir Jiménez Flórez
